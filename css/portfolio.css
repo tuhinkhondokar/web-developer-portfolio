@@ -219,6 +219,77 @@ nav ul{
     font-weight: 400;
     color: #757575;
   }
- 
+  .btn-primary1{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: #FD6E0A;
+    border-radius: 5px;
+    border: none;
+    padding: 18px 35px;
+    cursor: pointer;
+}
+.special > li{
+  list-style: none;
+  text-align: center;
+}
+.special > li > a{
+  text-decoration: none;
+}
+.text-form{
+  display: flex;
+  padding: 131px 230px;
+  background-color: rgba(255, 248, 243, 1);
+  margin-top: 60px;
+  gap: 100px;
+}
+.your-name{
+  display: block;
+}
+.your-email{
+  display: block;
+  margin-top: 20px;
+}
+.leave{
+  display: block;
+  margin-top: 15px;
+}
+.btn-primary2{
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  background-color: rgba(253, 110, 10, 1);
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+footer input[type="text"], footer input[type="email"]{
+  border: none;
+  background-color: white;
+  height: 40px;
+  width: 100%;
+}
+footer textarea{
+  border: none;
+  background-color: white;
+  width: 50%;
+}
+.text-column{
+  width: 50%;
+}
+.text-title{
+  font-size: 35px;
+  font-weight: bold;
+  color: #181818;
+}
+.details{
+  font-size: 16px;
+  font-weight: 400;
+  color: #474747;
+}
+
+
  
   
