@@ -41,7 +41,29 @@ nav ul{
     padding: 18px 35px;
     cursor: pointer;
 }
-  
+/* intro er kaj */
+
+.intro{
+    color: #474747;
+    font-size: 45px;
+    line-height: auto;
+    font-weight: 600px;
+    margin-bottom: 0%;
+}
+.para{
+  color: #757575;
+  font-size: 18px;
+  font-weight: 400;
+}
+/* name er kaj */
+.name{
+    font-weight: bold;
+    font-size: 85px;
+    color: #181818;
+    margin-bottom: 10px;
+}
+
+  /* nav title */
 
 .nav-title{
     font-weight: 800;
@@ -63,9 +85,140 @@ nav ul{
     background-image: url(../images/developer.png),url(../images/header_bg.png);
     background-repeat: no-repeat;
     background-position: top left, bottom right;
+    background-color: #FFF8F3;
 }
+
 
 
   .banner-content{
     max-width: 585px;
   }
+  /* main er kaj */
+
+  .sec{
+    background-color: #FFF8F3;
+    text-align: center;
+    padding: 131px 160px;
+  }
+  .total{
+    width: 850px;
+    margin: 0 auto;
+    margin-top: 130px;
+  }
+  .items{
+    display: flex;
+    justify-content: space-around;
+  }
+ 
+  .about{
+    font-weight: bold;
+    font-size: 35px;
+    color: #181818;
+  }
+  about-para{
+    color: #757575;
+    font-weight: 400;
+    font-size: 16px;
+  }
+
+  .t1{
+    font-size: 20px;
+    color: #757575;
+    font-weight: 400;
+  }
+  .t2{
+    font-size: 14px;
+    font-weight: bold;
+    color: #474747;
+    letter-spacing: 0cap;
+  }
+  .tuhin1{
+    font-size: 35px;
+    font-weight: bold;
+  }
+  .tuhin2{
+    color: #757575;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 30px;
+  }
+  .total-kid{
+    text-align: center;
+  }
+  .container{
+    display: flex;
+    gap: 24px;
+  }
+  .box{
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    padding: 30px;
+    border-radius: 5px;
+    
+  }
+  .summary{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+  }
+  .heading{
+    font-size: 30px;
+    font-weight: bold;
+    color: #474747;
+  }
+  .small-heading{
+    font-size: 25px;
+    font-weight: bold;
+    color: #474747;
+  }
+  .para1{
+    font-size: 20px;
+    font-weight: 300;
+    color: #757575;
+  }
+  .para2{
+    font-size: 16px;
+    font-weight: 400;
+    color: #757575;
+  }
+/* container 2 er kaj 2 ta column a bhag kore kaj kora holo */
+
+  .container2{
+    display: flex;
+    gap: 50px;
+  }
+
+  .baper-beta{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+    margin-bottom: 65px;
+  }
+  .column-title1{
+    font-size: 30px;
+    font-weight: bold;
+    color: #474747;
+    margin-bottom: 30px;
+  }
+  .university{
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 0%;
+    letter-spacing: 0cap;
+    color: #757575;
+  }
+  .course{
+    font-size: 24px;
+    font-weight: bold;
+    color: #474747;
+    margin-bottom: 0%;
+  }
+  .description{
+    font-size: 14px;
+    font-weight: 400;
+    color: #757575;
+  }
+ 
+ 
+  
